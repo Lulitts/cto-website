@@ -5,8 +5,9 @@ audiences:
   - Project Managers
 ---
 
-Approved concept gains definition:
+Phase Descrption:
 
+* Approved concept gains definition
 * High-level analysis leveraging concept/problem definition and business case
 * Specific user-focused and, possibly, technology-focused problems are defined for exploration
 * Strategic direction and platform capabilities, e.g. analysis on strategic direction of IT investment * leveraging existing solutions
@@ -36,7 +37,7 @@ Users
 Data
 
 * Has the type of data the request will work with been identified? (e.g. No Data, Structured Data OR/AND Unstructured Data)
-* Has the condition of the data been specified? (e.g. format, data size, frequency of capture, current storage)
+* Has the condition of the data been specified? (e.g. type - test or production data, format, data size, frequency of capture, current storage)
 
 Security
 
@@ -45,4 +46,5 @@ Security
 
 Environment and Integration
 
+* What will be the environment for PoC development efforts (e.g. Test/dev environment, production, etc.)?
 * Will there be a need for integration with other systems?

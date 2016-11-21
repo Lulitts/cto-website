@@ -5,14 +5,14 @@ audiences:
   - Project Managers
 ---
 
-**The Proof of Concept (PoC) Phase**
+The Proof of Concept (PoC) Phase
 
 * Agile Scrum team is assigned to implement and test solution recommendation
 * Provide and Measure outcome of PoC team
-* Review PoC recommendation 
+* Provide PoC solution recommendation 
 * Business / Technical review to approve/reject progressing to next Phase
 
-					**Input** Checklist Before Starting the PoC Phase
+	***Input* Checklist Before Starting the PoC Phase**
 
 Scope and Approach
 
@@ -36,7 +36,7 @@ Development Environment
 * Has development environment been defined? (e.g. test/dev environment, production, etc.)
 * Has required access been identified, requested and setup completed?
 
-PoC **Output** Checklist
+	**PoC *Output* Checklist**
 
 * Measures of success for PoC have been met and accepted by stakeholders 
 * Recommendation for Prototype phase

@@ -38,7 +38,7 @@ Development Environment
 
 	**PoC *Output* Checklist**
 
-* Measures of success for PoC have been met and accepted by stakeholders 
+* Measures of success for PoC have been met and accepted by stakeholders
 * Recommendation for Prototype phase
 * Prototype Scope is defined
 * High-level business features have been identified prioritized

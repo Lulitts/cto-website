@@ -39,8 +39,6 @@ Development Environment
 
 PoC **Output** Checklist
 
-PoC Success Criteria
-
 * Measures of success for PoC have been met and accepted by stakeholders 
 * Recommendation for Prototype phase
 * Prototype Scope is defined

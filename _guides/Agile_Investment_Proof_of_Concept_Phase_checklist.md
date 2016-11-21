@@ -12,11 +12,11 @@ audiences:
 * Review PoC recommendation 
 * Business / Technical review to approve/reject progressing to next Phase
 
-
 **Input** Checklist Before Starting the PoC Phase
 
 Scope and Approach
 
+𐄂 PoC scope is defined
 * PoC scope is defined
 * High-level business needs have been identified prioritized
 * High-level technical needs and requirements have been identified prioritized
